@@ -20,7 +20,11 @@ public class PwsItemGroups {
                             new ItemStack(PwsTools.BONE_PICKAXE),
                             new ItemStack(PwsTools.BONE_AXE),
                             new ItemStack(PwsTools.BONE_SHOVEL),
-                            new ItemStack(PwsTools.BONE_SWORD)
+                            new ItemStack(PwsTools.BONE_SWORD),
+                            new ItemStack(PwsArmor.BONE_BOOTS),
+                            new ItemStack(PwsArmor.BONE_HELMET),
+                            new ItemStack(PwsArmor.BONE_CHESTPLATE),
+                            new ItemStack(PwsArmor.BONE_LEGGINGS)
                     )))
                     .build()
     );
