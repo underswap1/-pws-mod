@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "pws",
+  "version": "0.0.1",
+  "name": "PWS",
+  "description": "Mijn eerste Fabric Mod voor 1.20.1",
+  "entrypoints": {
+    "main": [
+      "com.example.pws.PwsMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
