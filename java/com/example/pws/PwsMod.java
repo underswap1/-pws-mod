@@ -10,6 +10,7 @@ public class PwsMod implements ModInitializer {
         System.out.println("If you read this, your a nerd!");
         PwsTools.registerTools();
         PwsArmor.registerArmor();
+        PwsBlocks.registerBlocks();
         PwsItemGroups.PWS_GROUP.getDisplayName();
     }
 }
