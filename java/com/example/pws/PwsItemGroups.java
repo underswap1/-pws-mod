@@ -25,7 +25,9 @@ public class PwsItemGroups {
                             new ItemStack(PwsArmor.BONE_HELMET),
                             new ItemStack(PwsArmor.BONE_CHESTPLATE),
                             new ItemStack(PwsArmor.BONE_LEGGINGS),
-                            new ItemStack(PwsBlocks.DRUM_BLOCK)
+                            new ItemStack(PwsBlocks.DRUM_BLOCK),
+                            new ItemStack(PwsBlocks.TOUGH_DIRT),
+                            new ItemStack(PwsBlocks.TOUGH_STONE)
                     )))
                     .build()
     );
